@@ -17,6 +17,7 @@ namespace task_two
 
             Console.WriteLine("В массиве " + MyArray.DivideBy3() + " пар, где только одно из двух чисел делится на 3...");
 
+            Console.WriteLine("\nЧтение из файла:");
             MyArray.ReadFile();
             MyArray.ShowArray();
 
