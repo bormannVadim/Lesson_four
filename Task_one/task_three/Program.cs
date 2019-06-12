@@ -9,7 +9,7 @@ namespace task_three
             // Савенко В.Р.
             // Дописать класс работы с одномерным массивом
             // массив создаётся в виде конструктов
-            // реализована функкция sum\Inverse\multi\maxCount\
+          
             Console.Write("Массив с шагом:");
             MyArray mr = new MyArray(10, 1, 10, 10); //  с шагом и определённой длины
             MyArray.Show();
